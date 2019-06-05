@@ -3,9 +3,9 @@ building simple radar using ESP8266 and servo motor MG 996R and HC-SR04, and the
 
 # Results
 
-https://www.youtube.com/watch?v=EHaF01cJuXc
+https://www.youtube.com/watch?v=iYSFZ4Aru64
 
-[![](youtube-servo-motor-2019.gif)](https://www.youtube.com/watch?v=EHaF01cJuXc)
+[![](youtube-servo-motor-2019.gif)](https://www.youtube.com/watch?v=iYSFZ4Aru64)
 
 
 # Download ( windows / android ) executable
