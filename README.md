@@ -8,9 +8,6 @@ https://www.youtube.com/watch?v=iYSFZ4Aru64
 [![](My-Mini-Radar.gif)](https://www.youtube.com/watch?v=iYSFZ4Aru64)
 
 
-# Download ( windows / android ) executable
-https://github.com/salim97/My-Digital-Servo-Motor/releases/tag/v1.0
-
 # hardware Setup
 in this project i'm using MG996R servo motor and Ultrasound distance HC-SR04
 
